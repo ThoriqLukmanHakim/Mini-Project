@@ -1,7 +1,6 @@
 import cv2
 import mediapipe as mp
 import pandas as pd  
-import os
 import numpy as np
 from flask import Flask, render_template, Response
 
